@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d618dcaf-23ed-4cd6-ba51-1aeecf22e4a6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulos/cap_1_visu_dados/grafico_barra3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulos/grafico_barra3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulos/grafico_barras.py" beforeDir="false" afterPath="$PROJECT_DIR$/modulos/cap_1_visu_dados/grafico_barras.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulos/grafico_linha.py" beforeDir="false" afterPath="$PROJECT_DIR$/modulos/cap_1_visu_dados/grafico_linha.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
