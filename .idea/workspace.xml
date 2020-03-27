@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d618dcaf-23ed-4cd6-ba51-1aeecf22e4a6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulos/algebra_linear/matrizes.py" beforeDir="false" afterPath="$PROJECT_DIR$/modulos/cap_2_algebra_linear/matrizes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulos/algebra_linear/vetores.py" beforeDir="false" afterPath="$PROJECT_DIR$/modulos/cap_2_algebra_linear/vetores.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +43,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.conjunto_daods">
+  <component name="RunManager" selected="Python.plot_3">
     <configuration name="conjunto_daods" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="data_science_do_zero" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -67,7 +65,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="grafico_barra3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="plot_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="data_science_do_zero" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,11 +73,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modulos" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modulos/cap_4_probabilidade" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modulos/cap_1_visu_dados/grafico_barra3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modulos/cap_4_probabilidade/plot_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,7 +86,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="grafico_barras2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="plot_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="data_science_do_zero" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,11 +94,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modulos/cap_1_visu_dados" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modulos/cap_4_probabilidade" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modulos/cap_1_visu_dados/grafico_barras2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modulos/cap_4_probabilidade/plot_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="grafico_dispersao" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="probabilidae" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="data_science_do_zero" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,11 +115,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modulos/cap_1_visu_dados" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modulos/cap_4_probabilidade" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modulos/cap_1_visu_dados/grafico_dispersao.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modulos/cap_4_probabilidade/probabilidade_condicional.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +128,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="grafico_linha2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="data_science_do_zero" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,11 +136,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modulos/cap_1_visu_dados" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modulos/cap_4_probabilidade" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modulos/cap_1_visu_dados/grafico_linha2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modulos/cap_4_probabilidade/plots_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.plot_3" />
+        <item itemvalue="Python.plot_2" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.probabilidae" />
         <item itemvalue="Python.conjunto_daods" />
-        <item itemvalue="Python.grafico_dispersao" />
-        <item itemvalue="Python.grafico_linha2" />
-        <item itemvalue="Python.grafico_barra3" />
-        <item itemvalue="Python.grafico_barras2" />
       </list>
     </recent_temporary>
   </component>
