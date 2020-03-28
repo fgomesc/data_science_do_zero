@@ -40,7 +40,7 @@ def vector_sum(vectors):
     return reduce(vector_add, vectors)
 
 
-def scalar_miltiply(c, v):
+def scalar_multiply(c, v):
     """ C é um número, v é um vetor """
     return [c * v_i for v_i in v]
 

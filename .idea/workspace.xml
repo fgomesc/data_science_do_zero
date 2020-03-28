@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="d618dcaf-23ed-4cd6-ba51-1aeecf22e4a6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulos/cap_2_algebra_linear/vetores.py" beforeDir="false" afterPath="$PROJECT_DIR$/modulos/cap_2_algebra_linear/vetores.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulos/cap_4_probabilidade/plot_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/modulos/cap_4_probabilidade/plot_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulos/cap_4_probabilidade/plots_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/modulos/cap_4_probabilidade/plots_1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,8 +46,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.plot_3">
-    <configuration name="conjunto_daods" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.grad_descendentes">
+    <configuration name="grad_descendentes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="data_science_do_zero" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -52,11 +55,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modulos/cap_3_estatistica" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modulos/cap_6_gradiente_descendente" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modulos/cap_3_estatistica/conjunto_daods.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modulos/cap_6_gradiente_descendente/grad_descendentes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hipotese_inferencia" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="data_science_do_zero" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modulos/cap_5_hipotese_inferencia" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modulos/cap_5_hipotese_inferencia/hipotese_inferencia.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,27 +131,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="probabilidae" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="data_science_do_zero" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modulos/cap_4_probabilidade" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modulos/cap_4_probabilidade/probabilidade_condicional.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="data_science_do_zero" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -151,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.grad_descendentes" />
+        <item itemvalue="Python.hipotese_inferencia" />
         <item itemvalue="Python.plot_3" />
         <item itemvalue="Python.plot_2" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.probabilidae" />
-        <item itemvalue="Python.conjunto_daods" />
       </list>
     </recent_temporary>
   </component>

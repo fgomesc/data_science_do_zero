@@ -15,4 +15,4 @@ plt.plot(xs, [normal_pdf(x, sigma=0.5) for x in xs], ':', label='mu=0,sigma=0.5'
 plt.plot(xs, [normal_pdf(x, mu=-1) for x in xs], '-.', label='mu=-1,sigma=1')
 plt.legend()
 plt.title("Diversas Funções de Densidade de Probabilidade Normais")
-plt.show()
+#plt.show()
